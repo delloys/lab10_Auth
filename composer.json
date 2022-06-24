@@ -1,0 +1,12 @@
+{
+    "name": "delloys/auth",
+    "require": {
+        "twig/twig": "3.4",
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Delloys\\Auth\\": "src/"
+        }
+    }
+}
